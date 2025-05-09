@@ -1,0 +1,8 @@
+.header {
+  display: block;
+  gap: 8px;
+  width: 100%;
+  padding-inline: 12px;
+  padding-block: 16px;
+  background-color: #062f71;
+}
